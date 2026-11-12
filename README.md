@@ -11,3 +11,5 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0): <https://creativecommons.org/licenses/by-nc/4.0/>.
 
 shift + ctrl 2 times and gui will open
+
+https://www.virustotal.com/gui/file/d0b75ebef28f9c6596fdebc4b380c363b0e4ed9dca1653fc67f2c5ab3e0d4c6f/detection
